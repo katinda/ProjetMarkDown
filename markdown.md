@@ -1,19 +1,31 @@
 
 
 
-http://github.com - automatic! 
-[GitHub](http://github.com)
+## Techoligie durant la formation (language)
 
-![GitHub Logo](/images/logo.png) 
-Format: ![Alt Text](url)
-
-As Grace Hopper said:
-> I’ve always been more interested
-> in the future than in the past.
+* HTML
+* MARKDOWN
+* Linux Terminal
 
 
-1. Item 1 
-2. Item 2 
-3. Item 3
-* Item 3a 
-* Item 3b
+## Membre Du  Groupe 
+
+1. Mehmet
+*  parle turc
+* mange la specialité turc
+
+2. Gabriela
+* parle espagnol
+*  mange la specialité d'amérique latine
+
+3. Paulo
+* parle portuguais
+* mange la specialité d'amerique latine
+
+4. Katinda
+* parle lingala
+* mange la specialite africaine
+
+
+
+
